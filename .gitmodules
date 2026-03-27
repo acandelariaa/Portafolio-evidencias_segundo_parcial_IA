@@ -1,0 +1,12 @@
+[submodule "Regresi-n_logistica-validacion-cruzada"]
+	path = Regresi-n_logistica-validacion-cruzada
+	url = https://github.com/acandelariaa/Regresi-n_logistica-validacion-cruzada.git
+[submodule "LDA_Arboles_descision"]
+	path = LDA_Arboles_descision
+	url = https://github.com/acandelariaa/LDA_Arboles_descision.git
+[submodule "SVM-Random-Forest-Boosting-y-redes-neuronales"]
+	path = SVM-Random-Forest-Boosting-y-redes-neuronales
+	url = https://github.com/acandelariaa/SVM-Random-Forest-Boosting-y-redes-neuronales.git
+[submodule "Proyecto_2"]
+	path = Proyecto_2
+	url = https://github.com/acandelariaa/Proyecto_2.git
