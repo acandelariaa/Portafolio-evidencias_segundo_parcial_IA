@@ -5,10 +5,10 @@ Aqui se muestran los repositorios creados sobre diferentes temas de la materia d
 
 ### Modulos
 
-[Regresión Logistica](Auto-Statistical-Learning/Auto_Statistical_Learning.md)
-
-[Arboles de decisión](Regresion_Lineal_Multiple/index.md)
-
-[Modelos de ensamble, Random Forest, SVM y Redes Neuronales](Solucion_de_Problemas/index.md)
-
-[Proyecto segundo parcial](Proyecto_primer_parcial/index.md)
+- [Regresión Logística](https://github.com/acandelariaa/Regresi-n_logistica-validacion-cruzada)
+  
+- [LDA y Árboles de Decisión](https://github.com/acandelariaa/LDA_Arboles_descision)
+  
+- [SVM, Random Forest y Redes Neuronales](https://github.com/acandelariaa/SVM-Random-Forest-Boosting-y-redes-neuronales)
+  
+- [Proyecto 2](https://github.com/acandelariaa/Proyecto_2)
